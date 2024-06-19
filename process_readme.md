@@ -60,3 +60,6 @@ then entered a commit message and click "Commit All".
 Go to "Sync".
 Click "Push" to upload your changes to the remote repository.
 
+
+Github linkt to a project with an init command "https://github.com/BinarySir/GithubIntro.git"
+
