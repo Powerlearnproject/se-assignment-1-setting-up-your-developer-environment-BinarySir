@@ -51,7 +51,7 @@ Committing Changes:
 
 (git add . 
 git commit -m "commit message"
-git push -all)
+git push --all)
 
 After making changes to my project files.
 i went to "Team Explorer" > "Changes".
